@@ -1,0 +1,118 @@
+
+  
+.box{
+
+   
+
+    position: relative;
+    max-height:50%;
+    max-width: 50%;
+    height: fit-content;
+    margin-top: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 1rem;
+     background-image: url( "./n.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+
+.inputFeild{
+    
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 0.9rem;
+    
+
+
+
+}
+
+
+.temp-min-max{
+
+    margin-bottom:20px;
+    color: violet;
+
+
+
+}
+
+
+@media only screen and (max-width: 450px) {
+    
+    .box{
+    background-image: url("./n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:1200px;
+    margin:0 auto;
+    height: 100%;
+    width: 100%;
+    margin-top: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 1rem;
+    
+
+   
+
+  
+    }
+    
+
+
+.inputFeild{
+    
+    font-size: 12px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 0.9rem;
+    
+
+
+
+}
+
+
+
+
+
+
+
+.temp-min-max{
+
+    color: violet;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  }
